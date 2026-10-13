@@ -1,21 +1,15 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "RNAseqStudio: a self-installing graphical application for bulk RNA-seq analysis from reads to pathways"
+message: "Se utilizzi questo software, citalo come indicato di seguito."
+title: "RNAseqStudio"
 type: software
-version: 1.0.0
-date-released: 2026-10-13
-license: MIT
-repository-code: "https://github.com/serenaspartano/RNAseqStudio"
 authors:
-  - family-names: Spartano
-    given-names: Serena
-    email: serena.spartano@unicatt.it
-    affiliation: "Università Cattolica del Sacro Cuore, Rome, Italy"
+  - family-names: "Spartano"
+    given-names: "Serena"
+version: "1.0.0"
+doi: "10.5281/zenodo.23337028"
+date-released: "2026-10-13"
+license: "MIT"
+repository-code: "https://github.com/Sparty87/RNASeqStudio"
+abstract: "RNAseqStudio is a desktop application that guides users through a complete bulk RNA-seq analysis in a single graphical interface, with no command-line work and no administrator rights required. It brings together established, widely used tools in four steps that can each be run on their own, so an analysis can start from raw FASTQ files, aligned BAM files, a count matrix or an existing table of differential expression results."
 keywords:
-  - RNA-seq
-  - differential expression
-  - DESeq2
-  - pathway analysis
-  - GSEA
-  - bioinformatics
-  - GUI
+  - "RNA-seq; transcriptomics; differential expression; DESeq2; PyDESeq2; gene set enrichment analysis; GSEA; over-representation analysis; pathway analysis; HISAT2; STAR; featureCounts; graphical user interface; bioinformatics"

@@ -1,5 +1,7 @@
 # RNAseqStudio
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23337027.svg)](https://doi.org/10.5281/zenodo.23337027)
+
 **From reads to pathways, starting from any step.**
 A self-installing desktop application (Python + Qt) for bulk RNA-seq analysis: alignment, gene-level counting, differential expression and pathway analysis — each step usable on its own.
 
