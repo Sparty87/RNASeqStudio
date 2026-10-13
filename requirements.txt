@@ -1,0 +1,7 @@
+PySide6>=6.5
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+matplotlib>=3.6
+pydeseq2>=0.4
+gseapy>=1.0
